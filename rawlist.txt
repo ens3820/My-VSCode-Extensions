@@ -1,0 +1,88 @@
+Composer
+https://marketplace.visualstudio.com/items?itemName=ikappas.composer
+ikappas.composer
+
+DotENV
+https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+mikestead.dotenv
+
+EditorConfig for VS Code
+https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig
+editorconfig.editorconfig
+
+ESLint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+dbaeumer.vscode-eslint
+
+GitLens — Git supercharged
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+eamodio.gitlens
+
+Laravel Blade Snippets
+https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade
+onecentlin.laravel-blade
+
+Laravel goto view
+https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view
+codingyu.laravel-goto-view
+
+php cs fixer
+https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer
+junstyle.php-cs-fixer
+
+PHP Intelephense
+https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
+bmewburn.vscode-intelephense-client
+
+Prettier - Code formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+esbenp.prettier-vscode
+
+Tailwind CSS IntelliSense
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+bradlc.vscode-tailwindcss
+
+Vetur
+https://marketplace.visualstudio.com/items?itemName=octref.vetur
+octref.vetur
+
+VS Color Picker
+https://marketplace.visualstudio.com/items?itemName=lihui.vs-color-picker
+lihui.vs-color-picker
+
+Auto Rename Tag
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+formulahendry.auto-close-tag
+
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+formulahendry.auto-rename-tag
+
+Hex Editor
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor
+ms-vscode.hexeditor
+
+markdownlint
+https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+DavidAnson.vscode-markdownlint
+
+GitLens — Git supercharged
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+eamodio.gitlens
+
+TODO Highlight
+https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+wayou.vscode-todo-highlight
+
+Todo Tree
+https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+Gruntfuggly.todo-tree
+
+vscode-icons
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+vscode-icons-team.vscode-icons
+
+Visual Studio IntelliCode
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+VisualStudioExptTeam.vscodeintellicode
+
+

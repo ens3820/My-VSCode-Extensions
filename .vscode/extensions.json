@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "ikappas.composer",
+        "mikestead.dotenv",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "onecentlin.laravel-blade",
+        "codingyu.laravel-goto-view",
+        "junstyle.php-cs-fixer",
+        "bmewburn.vscode-intelephense-client",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "octref.vetur",
+        "lihui.vs-color-picker",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "ms-vscode.hexeditor",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "wayou.vscode-todo-highlight",
+        "Gruntfuggly.todo-tree",
+        "vscode-icons-team.vscode-icons",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
